@@ -15,13 +15,13 @@ const SliderAbout = () => {
     <div>
       <Slider {...settings}>
         <div>
-          <Banner />
+        <Banner />
         </div>
         <div>
-          <Banner />
+        <Banner />
         </div>
         <div>
-          <Banner />
+        <Banner />
         </div>
     </Slider>
     </div>
