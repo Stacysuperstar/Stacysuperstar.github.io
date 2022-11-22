@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "myId": 1,
+      "title": "Ballroom Dance Shoe_1",
+      "description": "Short description of the product",
+      "price": 56,
+      "img": "/img/zapato.jpg"
+    },
+    {
+      "id": 2,
+      "myId": 2,
+      "title": "Ballroom Dance Shoe_2",
+      "description": "Short description of the product",
+      "price": 56,
+      "img": "/img/zapato.jpg"
+    },
+    {
+      "id": 3,
+      "myId": 3,
+      "title": "Ballroom Dance Shoe_3",
+      "description": "Short description of the product",
+      "price": 56,
+      "img": "/img/zapato.jpg"
+    },
+    {
+      "id": 4,
+      "myId": 4,
+      "title": "Ballroom Dance Shoe_4",
+      "description": "Short description of the product",
+      "price": 56,
+      "img": "/img/zapato.jpg"
+    },
+    {
+      "id": 5,
+      "myId": 5,
+      "title": "Ballroom Dance Shoe_5",
+      "description": "Short description of the product",
+      "price": 56,
+      "img": "/img/zapato.jpg"
+    },
+    {
+      "id": 6,
+      "myId": 6,
+      "title": "Ballroom Dance Shoe_6",
+      "description": "Short description of the product",
+      "price": 56,
+      "img": "/img/zapato.jpg"
+    }
+  ],
+  "cart": [],
+  "favourites": []
+}
